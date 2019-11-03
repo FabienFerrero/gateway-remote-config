@@ -12,7 +12,7 @@
     ],
     "ref_latitude": 15.97350743,
     "ref_longitude": 108.25259611,
-    "ref_altitude": 40,
+    "ref_altitude": 0,
     "contact_email": "trandanh.danhtran@gmail.com",
     "description": "loragateway sict"
   }
